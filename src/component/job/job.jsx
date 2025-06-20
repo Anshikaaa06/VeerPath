@@ -106,7 +106,7 @@ function Job() {
               placeholder="Search"
               className="px-4 py-2 pl-10 border rounded-full shadow-sm focus:outline-none focus:ring-2 focus:ring-[#00E5BE]"
             />
-            <span className="absolute left-3 top-2.5 text-gray-400">🔍</span>
+            <span className="absolute left-3 top-2.5 text-gray-400"></span>
           </div>
           <button className="bg-[#00E5BE] text-white px-4 py-2 rounded-full hover:bg-[#00cdae] transition">Sign Up</button>
           <button className="bg-gray-100 text-black px-4 py-2 rounded-full hover:bg-gray-200 transition">Login</button>
